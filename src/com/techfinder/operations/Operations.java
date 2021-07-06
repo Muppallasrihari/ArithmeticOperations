@@ -9,6 +9,7 @@ public class Operations {
 	String userChoice=null;
 	do {
 		System.out.println("****Welcome to TechFinder*****");
+		System.out.println("New branch is added to working tree");
 		System.out.println("1.Addition");
 		System.out.println("2.Substraction");
 		System.out.println("3.Multiplication");
